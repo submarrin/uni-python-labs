@@ -1,0 +1,4 @@
+-- `pdflatex document` intermediate compilation files
+
+document.log
+document.aux
