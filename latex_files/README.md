@@ -7,3 +7,13 @@ Create an empty git repository in an empty folder
 Make a commit after you create and after you fill each section 
 * During your writing, compile the project every now and then. 
 Create a .gitignore file so that the intermediate compilation files are not tracked
+
+### Requirements
+
+````
+brew install basictex
+````
+
+````
+pdflatex document
+````
